@@ -1,0 +1,16 @@
+.stAppViewContainer.appview-container.st-emotion-cache-1yiq2ps.ea3mdgi9{
+    background: #ffffff;
+}
+
+[data-testid="stHeader"]{
+    background: #ffffff;
+}
+
+::selection{
+    background: #6643B5;
+    color: whitesmoke;
+}
+
+[data-testid="stBaseButton-header"]{
+    display: none;
+}
